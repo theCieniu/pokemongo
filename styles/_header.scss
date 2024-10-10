@@ -15,6 +15,7 @@ nav {
       margin: 1rem 0 1rem 3em;
     }
   }
+  display: none;
 }
 
 #burger {
@@ -54,3 +55,11 @@ nav {
   display: block;
 }
 */
+header {
+  display: flex;
+  flex-direction: row;
+}
+
+header img {
+  display: block;
+}

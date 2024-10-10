@@ -59,6 +59,11 @@ a:visited:active {
   color: $dark;
 }
 
+img {
+  max-width: 120px;
+  max-height: 120px;
+}
+
 /*======= TYPOGRAPHY ===========*/
 h1 {
   font-size: calc(2rem + 1vw);
